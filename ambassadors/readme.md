@@ -7,7 +7,6 @@ This folder contains files of the structure and a quick quide that explains how 
 
 
 ## Static Slide
-------
 
 The first element that you will find is the static slide `<div class="slide" style="background-image:url('http://...');">` which it works to display a short description with a background-image.
 
@@ -15,9 +14,10 @@ Change the image by replacing the url of this line `<div class="slide" style="ba
 
 Inside of this tag `<div class="txt">` you will find the title represented by the tag `<h2></h2>`, and the descriptive text nested inside of `<div class="txt">` where you can add anchors if required.
 
+
 Uses: 
-- <h2> Big & Regular type format (the title)
-- <div class="txt"> Regular & medium type format (the description)
+- `<h2>` Big & Regular type format (the title)
+- `<div class="txt">` Regular & medium type format (the description)
 
 ```
 <div class="slide" style="background-image:url('http://...');">
@@ -37,15 +37,15 @@ Uses:
 
 
 ## Grid of Profiles Images
-------
 
 Place the next line on the markup `<div class="category_cont">`. 
 
 Change the anchors and replace url images. To edit the caption of the image replace the text inside of the `<h1>` tag.
 
+
 Uses:
 - Upgrade the image url
-- <h1> Caption of the image
+- `<h1>` Caption of the image
 
 ```
 <figure>

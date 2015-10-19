@@ -4,7 +4,7 @@ This is a user's guide for the snippet variations that you will find among the w
 
 You will find on top of this page a list of folders with specific names that help to identify the section you need to consult.
 
-------
+
 
 ## Get Started
 
